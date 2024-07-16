@@ -88,3 +88,7 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+SwiftUI-Firebase-Swiftful/SwiftUI-Firebase-Swiftful/Assets.xcassets/.DS_Store
+SwiftUI-Firebase-Swiftful/.DS_Store
+SwiftUI-Firebase-Swiftful/SwiftUI-Firebase-Swiftful/.DS_Store
+.DS_Store
